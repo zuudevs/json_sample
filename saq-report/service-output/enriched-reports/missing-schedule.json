@@ -1,0 +1,30 @@
+[
+  {
+    "id": "RPT_000099",
+    "schedule_id": "SCHED_MISSING",
+    "date": "2026-03-02",
+    "formattedDate": "Senin, 2 Maret 2026",
+    "materi": "Pengenalan Pemrograman",
+    "deskripsiKegiatan": "Praktikum pengenalan konsep pemrograman.",
+    "keterangan": "",
+    "attending_assistant_ids": [
+      "ASST_000001"
+    ],
+    "status": "hadir",
+    "author": "admin@system.com",
+    "receivedAt": "2026-03-02T14:00:00.000Z",
+    "schedule": null,
+    "course": null,
+    "lecturer": null,
+    "attendingAssistants": [
+      {
+        "id": "ASST_000001",
+        "nama_asisten": "ANDI",
+        "nama_panjang": "Andi Pratama",
+        "panggilan": "Andi",
+        "no_telp": "081234567801",
+        "ttd_image": ""
+      }
+    ]
+  }
+]

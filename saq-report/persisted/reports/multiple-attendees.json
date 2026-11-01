@@ -1,0 +1,18 @@
+[
+  {
+    "id": "RPT_000002",
+    "schedule_id": "SCHED_000003",
+    "date": "2026-03-06",
+    "formattedDate": "Jumat, 6 Maret 2026",
+    "materi": "Struktur Data",
+    "deskripsiKegiatan": "Praktikum struktur data.",
+    "keterangan": "",
+    "attending_assistant_ids": [
+      "ASST_000001",
+      "ASST_000002"
+    ],
+    "status": "hadir",
+    "author": "admin@system.com",
+    "receivedAt": "2026-03-06T14:00:00.000Z"
+  }
+]

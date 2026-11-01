@@ -1,0 +1,12 @@
+{
+  "lecturers": [
+    {
+      "id": "LECT_000001",
+      "name": "Dosen Contoh",
+      "title": "",
+      "email": "",
+      "phone": "",
+      "department": ""
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "SCHED_000001",
+    "course_id": "COURSE_000001",
+    "lecturer_id": "LECT_000001",
+    "class": "A",
+    "day": "Senin",
+    "time": "13.00 - 15.30",
+    "pj_assistant_id": "ASST_000001",
+    "assistant_ids": [
+      "ASST_000001"
+    ],
+    "course": {
+      "id": "COURSE_000001",
+      "code": "CS101",
+      "name": "Pemrograman Dasar",
+      "credits": 3,
+      "sks": 3,
+      "description": "Dasar pemrograman.",
+      "department": "Informatika",
+      "semester": 2
+    },
+    "lecturer": {
+      "id": "LECT_000001",
+      "name": "Dosen Contoh",
+      "title": "M.Kom.",
+      "email": "dosen@example.test",
+      "phone": "081234567811",
+      "department": "Informatika"
+    },
+    "pjAssistant": {
+      "id": "ASST_000001",
+      "nama_asisten": "ANDI",
+      "nama_panjang": "Andi Pratama",
+      "panggilan": "Andi",
+      "no_telp": "081234567801",
+      "ttd_image": ""
+    },
+    "assistants": [
+      {
+        "id": "ASST_000001",
+        "nama_asisten": "ANDI",
+        "nama_panjang": "Andi Pratama",
+        "panggilan": "Andi",
+        "no_telp": "081234567801",
+        "ttd_image": ""
+      }
+    ]
+  }
+]

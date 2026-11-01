@@ -1,0 +1,12 @@
+{
+  "assistants": [
+    {
+      "id": "ASST_000001",
+      "nama_asisten": "ANDI",
+      "nama_panjang": "Andi Pratama",
+      "panggilan": "Andi",
+      "no_telp": "081234567801",
+      "ttd_image": ""
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "monthInfo": {
+    "month": 3,
+    "year": 2026,
+    "monthName": "Maret",
+    "daysInMonth": 31,
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-03-01",
+        "dayOfWeek": 0,
+        "dayName": "Minggu",
+        "isSunday": true
+      },
+      {
+        "day": 2,
+        "date": "2026-03-02",
+        "dayOfWeek": 1,
+        "dayName": "Senin",
+        "isSunday": false
+      },
+      {
+        "day": 3,
+        "date": "2026-03-03",
+        "dayOfWeek": 2,
+        "dayName": "Selasa",
+        "isSunday": false
+      },
+      {
+        "day": 4,
+        "date": "2026-03-04",
+        "dayOfWeek": 3,
+        "dayName": "Rabu",
+        "isSunday": false
+      },
+      {
+        "day": 5,
+        "date": "2026-03-05",
+        "dayOfWeek": 4,
+        "dayName": "Kamis",
+        "isSunday": false
+      },
+      {
+        "day": 6,
+        "date": "2026-03-06",
+        "dayOfWeek": 5,
+        "dayName": "Jumat",
+        "isSunday": false
+      },
+      {
+        "day": 7,
+        "date": "2026-03-07",
+        "dayOfWeek": 6,
+        "dayName": "Sabtu",
+        "isSunday": false
+      },
+      {
+        "day": 8,
+        "date": "2026-03-08",
+        "dayOfWeek": 0,
+        "dayName": "Minggu",
+        "isSunday": true
+      },
+      {
+        "day": 9,
+        "date": "2026-03-09",
+        "dayOfWeek": 1,
+        "dayName": "Senin",
+        "isSunday": false
+      },
+      {
+        "day": 10,
+        "date": "2026-03-10",
+        "dayOfWeek": 2,
+        "dayName": "Selasa",
+        "isSunday": false
+      },
+      {
+        "day": 11,
+        "date": "2026-03-11",
+        "dayOfWeek": 3,
+        "dayName": "Rabu",
+        "isSunday": false
+      },
+      {
+        "day": 12,
+        "date": "2026-03-12",
+        "dayOfWeek": 4,
+        "dayName": "Kamis",
+        "isSunday": false
+      },
+      {
+        "day": 13,
+        "date": "2026-03-13",
+        "dayOfWeek": 5,
+        "dayName": "Jumat",
+        "isSunday": false
+      },
+      {
+        "day": 14,
+        "date": "2026-03-14",
+        "dayOfWeek": 6,
+        "dayName": "Sabtu",
+        "isSunday": false
+      },
+      {
+        "day": 15,
+        "date": "2026-03-15",
+        "dayOfWeek": 0,
+        "dayName": "Minggu",
+        "isSunday": true
+      },
+      {
+        "day": 16,
+        "date": "2026-03-16",
+        "dayOfWeek": 1,
+        "dayName": "Senin",
+        "isSunday": false
+      },
+      {
+        "day": 17,
+        "date": "2026-03-17",
+        "dayOfWeek": 2,
+        "dayName": "Selasa",
+        "isSunday": false
+      },
+      {
+        "day": 18,
+        "date": "2026-03-18",
+        "dayOfWeek": 3,
+        "dayName": "Rabu",
+        "isSunday": false
+      },
+      {
+        "day": 19,
+        "date": "2026-03-19",
+        "dayOfWeek": 4,
+        "dayName": "Kamis",
+        "isSunday": false
+      },
+      {
+        "day": 20,
+        "date": "2026-03-20",
+        "dayOfWeek": 5,
+        "dayName": "Jumat",
+        "isSunday": false
+      },
+      {
+        "day": 21,
+        "date": "2026-03-21",
+        "dayOfWeek": 6,
+        "dayName": "Sabtu",
+        "isSunday": false
+      },
+      {
+        "day": 22,
+        "date": "2026-03-22",
+        "dayOfWeek": 0,
+        "dayName": "Minggu",
+        "isSunday": true
+      },
+      {
+        "day": 23,
+        "date": "2026-03-23",
+        "dayOfWeek": 1,
+        "dayName": "Senin",
+        "isSunday": false
+      },
+      {
+        "day": 24,
+        "date": "2026-03-24",
+        "dayOfWeek": 2,
+        "dayName": "Selasa",
+        "isSunday": false
+      },
+      {
+        "day": 25,
+        "date": "2026-03-25",
+        "dayOfWeek": 3,
+        "dayName": "Rabu",
+        "isSunday": false
+      },
+      {
+        "day": 26,
+        "date": "2026-03-26",
+        "dayOfWeek": 4,
+        "dayName": "Kamis",
+        "isSunday": false
+      },
+      {
+        "day": 27,
+        "date": "2026-03-27",
+        "dayOfWeek": 5,
+        "dayName": "Jumat",
+        "isSunday": false
+      },
+      {
+        "day": 28,
+        "date": "2026-03-28",
+        "dayOfWeek": 6,
+        "dayName": "Sabtu",
+        "isSunday": false
+      },
+      {
+        "day": 29,
+        "date": "2026-03-29",
+        "dayOfWeek": 0,
+        "dayName": "Minggu",
+        "isSunday": true
+      },
+      {
+        "day": 30,
+        "date": "2026-03-30",
+        "dayOfWeek": 1,
+        "dayName": "Senin",
+        "isSunday": false
+      },
+      {
+        "day": 31,
+        "date": "2026-03-31",
+        "dayOfWeek": 2,
+        "dayName": "Selasa",
+        "isSunday": false
+      }
+    ]
+  },
+  "assistants": [
+    {
+      "id": "ASST_000001",
+      "nama": "Andi Pratama",
+      "nim": "-",
+      "ttd_image": "",
+      "mataKuliahRows": [
+        {
+          "scheduleId": "SCHED_000001",
+          "name": "Pemrograman Dasar",
+          "kelas": "A",
+          "sks": 3,
+          "jam": 2.5,
+          "day": "Senin",
+          "cells": {
+            "2026-03-01": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-02": {
+              "jam": 2.5,
+              "status": "normal"
+            },
+            "2026-03-03": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-04": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-05": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-06": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-07": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-08": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-09": {
+              "jam": 0,
+              "status": "diganti"
+            },
+            "2026-03-10": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-11": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-12": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-13": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-14": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-15": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-16": {
+              "jam": 2.5,
+              "status": "pengganti"
+            },
+            "2026-03-17": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-18": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-19": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-20": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-21": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-22": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-23": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-24": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-25": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-26": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-27": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-28": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-29": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-30": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-31": {
+              "jam": 0,
+              "status": "empty"
+            }
+          },
+          "totalHari": 2,
+          "isTambahan": false
+        },
+        {
+          "scheduleId": "SCHED_000002",
+          "name": "Struktur Data",
+          "kelas": "B",
+          "sks": 2,
+          "jam": 1.67,
+          "day": "Rabu",
+          "cells": {
+            "2026-03-01": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-02": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-03": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-04": {
+              "jam": 1.67,
+              "status": "tambahan"
+            },
+            "2026-03-05": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-06": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-07": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-08": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-09": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-10": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-11": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-12": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-13": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-14": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-15": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-16": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-17": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-18": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-19": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-20": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-21": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-22": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-23": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-24": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-25": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-26": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-27": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-28": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-29": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-30": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-31": {
+              "jam": 0,
+              "status": "empty"
+            }
+          },
+          "totalHari": 1,
+          "isTambahan": true
+        }
+      ],
+      "totalJam": 6.67,
+      "totalHariKehadiran": 3
+    },
+    {
+      "id": "ASST_000002",
+      "nama": "Budi Santoso",
+      "nim": "-",
+      "ttd_image": "",
+      "mataKuliahRows": [
+        {
+          "scheduleId": "SCHED_000002",
+          "name": "Struktur Data",
+          "kelas": "B",
+          "sks": 2,
+          "jam": 1.67,
+          "day": "Rabu",
+          "cells": {
+            "2026-03-01": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-02": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-03": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-04": {
+              "jam": 0,
+              "status": "diganti"
+            },
+            "2026-03-05": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-06": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-07": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-08": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-09": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-10": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-11": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-12": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-13": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-14": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-15": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-16": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-17": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-18": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-19": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-20": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-21": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-22": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-23": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-24": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-25": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-26": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-27": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-28": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-29": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-30": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-31": {
+              "jam": 0,
+              "status": "empty"
+            }
+          },
+          "totalHari": 0,
+          "isTambahan": false
+        },
+        {
+          "scheduleId": "SCHED_000001",
+          "name": "Pemrograman Dasar",
+          "kelas": "A",
+          "sks": 3,
+          "jam": 2.5,
+          "day": "Senin",
+          "cells": {
+            "2026-03-01": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-02": {
+              "jam": 2.5,
+              "status": "tambahan"
+            },
+            "2026-03-03": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-04": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-05": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-06": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-07": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-08": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-09": {
+              "jam": 2.5,
+              "status": "tambahan"
+            },
+            "2026-03-10": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-11": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-12": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-13": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-14": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-15": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-16": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-17": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-18": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-19": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-20": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-21": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-22": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-23": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-24": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-25": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-26": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-27": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-28": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-29": {
+              "jam": 0,
+              "status": "sunday"
+            },
+            "2026-03-30": {
+              "jam": 0,
+              "status": "empty"
+            },
+            "2026-03-31": {
+              "jam": 0,
+              "status": "empty"
+            }
+          },
+          "totalHari": 2,
+          "isTambahan": true
+        }
+      ],
+      "totalJam": 5,
+      "totalHariKehadiran": 2
+    }
+  ],
+  "grandTotalHari": 5,
+  "grandTotalJam": 11.67
+}

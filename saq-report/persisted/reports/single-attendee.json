@@ -1,0 +1,17 @@
+[
+  {
+    "id": "RPT_000001",
+    "schedule_id": "SCHED_000001",
+    "date": "2026-03-02",
+    "formattedDate": "Senin, 2 Maret 2026",
+    "materi": "Pengenalan Pemrograman",
+    "deskripsiKegiatan": "Praktikum pengenalan konsep pemrograman.",
+    "keterangan": "",
+    "attending_assistant_ids": [
+      "ASST_000001"
+    ],
+    "status": "hadir",
+    "author": "admin@system.com",
+    "receivedAt": "2026-03-02T14:00:00.000Z"
+  }
+]

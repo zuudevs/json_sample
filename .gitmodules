@@ -1,0 +1,3 @@
+[submodule "jeopardy_crawl"]
+	path = "scripts/jeopardy_crawl"
+	url = "https://github.com/zuudevs/jeopardy_crawl.git"
